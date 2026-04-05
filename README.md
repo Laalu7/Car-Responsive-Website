@@ -1,5 +1,4 @@
 # Responsive Car Website
-## [Watch it on youtube](https://youtu.be/nnLjp9obqRA)
 ### Responsive Car Website
 
 - Responsive Car Website Usign HTML CSS JavaScript
@@ -9,6 +8,12 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+## 📦 Download the resources directly
+1. Click the green **code** button.
+2. Click **Download ZIP**.
+3. Extract the ZIP file and open the project in your code editor.
+
+*This project is a part of project*
+[https://adorable-pastelito-fc4d86.netlify.app/]
 
 ![preview img](/preview.png)
